@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jasmeen 
 - 🌱 I’m a senior undergrad at New York University 
 - 💞️ I’m majoring in Computer Science
-- 👀 I’m interested in cybersecurity 
+- 👀 I’m interested in web development 
 - 📫 You can reach me at jk7297@nyu.edu
 
 <!---
